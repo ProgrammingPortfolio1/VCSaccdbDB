@@ -1,0 +1,11 @@
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\bin\Debug\library.accdb
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\bin\Debug\VCSaccdbDB.exe.config
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\bin\Debug\VCSaccdbDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\bin\Debug\VCSaccdbDB.pdb
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\obj\x86\Debug\VCSaccdbDB.Form1.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\obj\x86\Debug\VCSaccdbDB.Properties.Resources.resources
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\obj\x86\Debug\VCSaccdbDB.exe
+C:\Users\mainuser\documents\visual studio 2010\Projects\VCSaccdbDB\VCSaccdbDB\obj\x86\Debug\VCSaccdbDB.pdb
